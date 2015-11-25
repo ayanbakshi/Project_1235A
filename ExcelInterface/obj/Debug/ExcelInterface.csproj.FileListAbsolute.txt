@@ -26,3 +26,6 @@ C:\Users\Tomb Raider\Desktop\ExcelInterface\ExcelInterface\obj\Debug\ExcelInterf
 C:\Users\Tomb Raider\Desktop\ExcelInterface\ExcelInterface\obj\Debug\ExcelInterface.Interface.resources
 C:\Users\Tomb Raider\Desktop\ExcelInterface\ExcelInterface\obj\Debug\ExcelInterface.Properties.Resources.resources
 C:\Users\Tomb Raider\Desktop\ExcelInterface\ExcelInterface\obj\Debug\ExcelInterface.csproj.GenerateResource.Cache
+F:\Project_1235A-master\Project_1235A-master\ExcelInterface\bin\Debug\ExcelInterface.exe.config
+F:\Project_1235A-master\Project_1235A-master\ExcelInterface\obj\Debug\ExcelInterface.exe
+F:\Project_1235A-master\Project_1235A-master\ExcelInterface\obj\Debug\ExcelInterface.pdb
